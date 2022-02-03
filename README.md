@@ -4,3 +4,4 @@ Team Member : Siddharth , Brijesh , Pratik...
 Siddharth :- Admin Module,Students Module
 Brijesh :- Teacher Module
 Pratik :- Parent Module
+Launguage :- HTML, CSS, BOOTSTRAP, JQUERY, MYSQL, PHP
